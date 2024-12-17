@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[1016],{7761:s=>{s.exports=JSON.parse('{"tag":{"label":"chess","permalink":"/hieudoanm/docs/tags/chess","allTagsPath":"/hieudoanm/docs/tags","count":1,"items":[{"id":"sports/chess","title":"Chess","description":"{/ truncate /}","permalink":"/hieudoanm/docs/sports/chess"}],"unlisted":false}}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[2184],{8015:e=>{e.exports=JSON.parse('{"tags":[{"label":"Hello","permalink":"/hieudoanm/blog/tags/hello","description":"Hello tag description","count":6}]}')}}]);
